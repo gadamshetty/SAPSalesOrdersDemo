@@ -17,7 +17,7 @@ sap.ui.jsview("view.Empty", {
 			title: "Details",
 			content: [
 			new sap.m.Image("img1",{
-				src:"images/naresh.JPG",
+				src:"images/naresh1.JPG",
 					width:"500px"
 			})
 			]
